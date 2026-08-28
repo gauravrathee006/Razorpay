@@ -1,0 +1,71 @@
+payment_id,utr_number,method,confidence,status,reasoning
+pay_OYGKMFABOB0060,UTR9427286984,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_ICZIFEJDUW0019,UTR0335137582,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VOTTJHKJNV0056,UTR0471403498,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_JHMGOLNQDJ0011,UTR5961707240,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_TTGMXSNFFR0013,UTR1952757945,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_FGPJPRQKIJ0047,UTR6053359051,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_AUUGDXUACC0035,UTR1589092693,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_HEFPUURDNF0002,UTR5168144315,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_ZXJQMPJKTH0003,UTR4906245240,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VFHWECVXIH0058,UTR3459821294,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_XSXXHOTESM0004,UTR8600009579,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_PCOVLOXAWD0026,UTR6971470068,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_GRUFMDWIOU0027,UTR9899728073,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_NNUQUQXMQS0050,UTR4676333581,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_OPDXOEAUIA0062,UTR1114702882,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_KODQPDJIID0055,UTR1584385762,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_KENUTJUZZT0030,UTR6140100060,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_LFTTKONORG0018,UTR6681667960,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_IDKSCAGIRI0015,UTR8897949910,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_GFIPMJVBBZ0010,UTR2219934290,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_NWSSCVVIZL0008,UTR3486002553,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VSMXVUSUBR0033,UTR1149777602,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_YDWMFESGGO0045,UTR8660084549,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_PLSWJOKWTZ0057,UTR5811298498,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_XUNRRSFWEO0059,UTR4875038359,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_NNNHSLTCFA0039,UTR0471151728,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_XKICURNMCX0064,UTR0979504462,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_XRLVLAFDUK0040,UTR2695127960,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VOCXENERMQ0051,UTR3071179337,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_JISHEQHFCY0007,UTR9582308000,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_OYBZGLOADT0046,UTR1072281175,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_HKUVNQKXYP0053,UTR6053485493,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VGKIVSVDFO0005,UTR6456867233,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VUJFGXGVHL0061,UTR1939804705,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VUXRTUXJOB0034,UTR1273415891,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_ELHSRRGOYU0021,UTR6876318865,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_WQXBPNYWIG0048,UTR4385401189,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_YIADNTFTZD0063,UTR1922776757,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_DMTGRIBDBF0065,UTR2296161333,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_QQUZZTZVCZ0016,UTR9114307083,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_WUSEMHCJNW0049,UTR2201365588,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_VWPAUPVFJO0014,UTR3546023525,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_TUEIOUGUUM0017,UTR8124507798,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_GQNGAYFCCN0022,UTR1633630259,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_BJLNCCXWPW0043,UTR4694498980,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_GVZMGLWZTM0044,UTR2857756196,exact_id_match,high,MATCHED,payment_id found verbatim in bank narration.
+pay_TMONWFANBA0001,UTR4258483810,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_GSZRPLJVNH0006,UTR6386350412,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_IIDCKPQOLT0009,UTR9862947626,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_XGGVBEDUDL0012,UTR5041190017,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_HMGVQZZRTL0020,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 19 days old - needs manual review.
+pay_HLLNTFIUKE0023,UTR6007226548,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_QJOAQLRUUS0024,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 8 days old - needs manual review.
+pay_IOCEXFXKOM0025,UTR8074325019,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_GIPNEGPZOF0028,UTR8684247622,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_NBVBWOGZMZ0029,UTR3948304467,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_TJURDHGMOS0031,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 9 days old - needs manual review.
+pay_PXKMCDUWBD0032,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 4 days old - needs manual review.
+pay_ZOAZQSLVDH0036,UTR5548814791,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_NLZUYOXUVM0037,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 8 days old - needs manual review.
+pay_GNIJHVQZND0038,UTR2991944132,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_SMGBIVPKFT0041,UTR0868941569,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_ILQEBYZAEF0042,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 15 days old - needs manual review.
+pay_YMMANKMTUJ0052,UTR6968175943,llm_mock,medium,MATCHED,[MOCK - no LLM key set] Settled amount is close to expected post-fee amount within tolerance.
+pay_KEMBSRCZFH0054,,none,n/a,UNRESOLVED_EXCEPTION,No settlement found within the matching window and payment is 8 days old - needs manual review.
+,UTR2809107457,none,n/a,DUPLICATE_SETTLEMENT,"Narration references pay_VOTTJHKJNV0056, which was already settled by another bank row - looks like a duplicate credit."
+,UTR7992591409,none,n/a,UNEXPLAINED_BANK_CREDIT,No corresponding Razorpay payment found for this bank credit within tolerance.
+,UTR9371775139,none,n/a,UNEXPLAINED_BANK_CREDIT,No corresponding Razorpay payment found for this bank credit within tolerance.
+,UTR7450834621,none,n/a,UNEXPLAINED_BANK_CREDIT,No corresponding Razorpay payment found for this bank credit within tolerance.
+,UTR6711686861,none,n/a,DUPLICATE_SETTLEMENT,"Narration references pay_NNNHSLTCFA0039, which was already settled by another bank row - looks like a duplicate credit."
